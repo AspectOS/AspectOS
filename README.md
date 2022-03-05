@@ -1,7 +1,6 @@
 # AspectOS
 
-Welcome to the Official AspectOS Repo! This is where you can download all of the AspectOS versions which include the full releases and the BETA versions! All of these are converted to HTML though so you cannot edit it directly (unless you are a god at this type of stuff)
-Below are the links to the projects so you guys can download it for yourselves.
+Welcome to the Official AspectOS Repo! This is where you can download all of the AspectOS versions which include the full releases and the BETA versions (v1.0 only). You can use https://packager.turbowarp.org as well to convert the project into an HTML file (WARNING: THIS WILL LAG YOUR COMPUTER. DOWNLOAD AT YOUR OWN RISK)
 
 * AspectOS v1.0.1: https://turbowarp.org/572083221/editor?hqpen&interpolate&stuck&limitless&offscreen&clones=Infinity
 * AspectOS v0.3.1: https://turbowarp.org/610094190/editor?interpolate&stuck
